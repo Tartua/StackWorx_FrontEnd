@@ -1,0 +1,24 @@
+.App {
+  text-align: left;
+  background-color: rgba(155, 143, 157, 0.69);
+  border-style: solid;
+}
+
+.App div{
+  margin: 20px;
+  border-style: solid;
+  padding: 2px;
+}
+
+.App input{
+  padding: 2px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
